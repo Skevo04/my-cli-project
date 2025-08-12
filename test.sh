@@ -94,3 +94,4 @@ gh pr comment "$PR_NUMBER" --body "$COMMENT"
 
 echo "Done! Results posted to PR #$PR_NUMBER"
 
+echo "Pull request done"
